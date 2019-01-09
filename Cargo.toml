@@ -1,0 +1,15 @@
+[package]
+name = "construct"
+version = "0.1.0"
+authors = ["Ash Walker <ash@ashwalker.net>"]
+
+[dependencies]
+painter = { path = "../../Libraries/Rust/painter" }
+ground_control = { path = "../../Libraries/Rust/ground_control" }
+gfx-hal = { path = "../../../Programs/gfx/src/hal" }
+gfx-backend-gl = { path = "../../../Programs/gfx/src/backend/gl" }
+shaderc = "^0.3"
+winit = "^0.18"
+
+[profile.dev]
+opt-level = 1

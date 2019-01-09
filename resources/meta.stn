@@ -1,0 +1,4 @@
+<meta>
+  <!-- When env vars work, it'll be $.[{debug}] -->
+  <import true="resources/debug.stn" false="resources/settings.stn" url="$.[true]"/>
+</meta>

@@ -1,0 +1,12 @@
+<meta>
+   <control action="quit">
+      <!--Escape-->
+      <key scan="1"/>
+   </control>
+   <control action="reload">
+     <key scan="63"/>
+   </control>
+   <control action="open_console">
+      <key scan="41"/>
+   </control>
+</meta>

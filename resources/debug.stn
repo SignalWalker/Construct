@@ -1,0 +1,18 @@
+<meta>
+   <import url="resources/settings.stn"/>
+   <control action="key_info">
+      <key scan="*" shift="*" ctrl="*" alt="*" logo="*"/>
+   </control>
+   <control action="window_left">
+      <key scan="105"/>
+   </control>
+   <control action="window_right">
+      <key scan="106"/>
+   </control>
+   <control action="window_up">
+      <key scan="103"/>
+   </control>
+   <control action="window_down">
+      <key scan="108"/>
+   </control>
+</meta>

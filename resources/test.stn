@@ -1,0 +1,8 @@
+<page fill="red" slide="up">
+   <import url="resources/meta.stn"/>
+   <color id="red" val="ff8080"/>
+   <color id="green" val="80ff80"/>
+   <color id="blue" val="8080ff"/>
+   <rect fill="green" border="blue" width="0.5cw" height="0.5ch"/>
+   <rect fill="blue" border="red" width="0.25cw" height="0.25ch"/>
+</page>
